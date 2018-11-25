@@ -1,6 +1,5 @@
 # behind_the_post_sensor
-# behind_the_post_sensor
-# behind_the_post_sensor
+
 ## possible sensors  
 [SW-18020P](https://www.sunrom.com/p/vibration-sensor)  which comes in a decent module with analog pin.
 
